@@ -1,5 +1,9 @@
 // © Anas Abu Farraj
-// jQuery Training Project
+// Learning jQuery
 // November 7, 2018
 
-console.log('Hello, jQuery!');
+const element = '<p>Page successfully loaded!</p>';
+
+$('document').ready(() => {
+  $('#content').append(element);
+});
