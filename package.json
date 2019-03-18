@@ -1,5 +1,5 @@
 {
-  "name": "hellojquery",
+  "name": "hello_jquery",
   "version": "1.0.0",
   "description": "learning jQuery",
   "main": "index.html",
@@ -22,3 +22,4 @@
   },
   "homepage": "https://github.com/anasabufarraj/HellojQuery#readme"
 }
+
