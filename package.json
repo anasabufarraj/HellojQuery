@@ -4,22 +4,12 @@
   "description": "learning jQuery",
   "main": "index.html",
   "dependencies": {
-    "lite-server": "^2.4.0"
+    "gulp-cli": "^2.2.0",
+    "lite-server": "^2.5.4"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "lite-server"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/anasabufarraj/HellojQuery.git"
-  },
-  "author": "Anas Abu Farraj",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/anasabufarraj/HellojQuery/issues"
-  },
-  "homepage": "https://github.com/anasabufarraj/HellojQuery#readme"
+  }
 }
-
